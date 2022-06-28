@@ -1,4 +1,4 @@
-import React, { Component } from "react";
+import React, { Component, Header, Legend, Caption } from "react";
 import "./About.css";
 import profile_pic from "../assets/profile_pic.jpg";
 
